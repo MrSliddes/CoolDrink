@@ -16,3 +16,8 @@ Dus om nog even mijn ontwerpkeuzes op te sommen:
 - De voorkant moest groot genoeg zijn om toegangkelijk te zijn voor de meeste bekers.
 - Er moest een opening zijn in de achterkant die ik kon openmaken voor eventuele reparatie.
 - Een display scherm die bestuurbaar is met vier knoppen voor makkelijke interactie voor de gebruiker (staat niet in de tekst)
+
+# Beeldmateriaal
+Dat kun je hier in dit project vinden (VersmorenTymon_ITTTVoortgangFotos.pdf) of via deze link:
+https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_ITTTVoortgangFotos.pdf
+
