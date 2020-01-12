@@ -27,4 +27,5 @@ https://github.com/MrSliddes/CoolDrink/tree/master/sketch_CoolDrinkMain
 De code is geschreven voor de arduino en is in het Engels, overal staan comments erbij die beschrijven wat de geschreven code doet.
 
 # Blog
-
+De dagelijkse blog kun je in dit project vinden of via deze lin:
+https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_ITTTBlog_v1.xlsx
