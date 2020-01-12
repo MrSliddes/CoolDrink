@@ -19,5 +19,12 @@ Dus om nog even mijn ontwerpkeuzes op te sommen:
 
 # Beeldmateriaal
 Dat kun je hier in dit project vinden (VersmorenTymon_ITTTVoortgangFotos.pdf) of via deze link:
-https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_ITTTVoortgangFotos.pdf
+https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_ITTTVoortgangFotos.pdf (Foto's van mijn voortgang)
+
+# Broncode
+De code die ik voor dit project heb geschreven kun je in dit project vinden (sketch_CoolDrinkMain) of via deze link:
+https://github.com/MrSliddes/CoolDrink/tree/master/sketch_CoolDrinkMain
+De code is geschreven voor de arduino en is in het Engels, overal staan comments erbij die beschrijven wat de geschreven code doet.
+
+# Blog
 
