@@ -1,12 +1,31 @@
 # CoolDrink
 A project i made for the HKU G&amp;I
 
-The readme is written in Dutch language.
+The readme is mostly written in Dutch language.
 
 Tymon Versmoren HKU
 If This Than That 2019-2020
 
 !Disclaimer, ik heb dyslextie dus excuses voor enige taalfouten!
+
+# Make it yourself
+Step 1. <br>
+Make sure you have the following:
+- 1x Arduino Uno
+- 1x 5 volt fan
+- 4x mini pushbutton switches
+- 5x 10K Omh resistors
+- 1x 4.7K Omh resistor
+- 1x wire temperature sensor (DS18B20 waterproof)
+- 1x wall adapter power supply 5v to 12v (in that range)
+- 1x usb cable A to B
+- 1x lcd display screen 16x2 I2C
+- 1x N-Channel MOSFET 60V 30A
+- 1x breadbord - half size
+- 1x jumper wires pack male to male
+- 1x jumper wires pack male to female
+
+Step 2.
 
 # Hoe ik op het idee ben gekomen en hoe ik het veder heb uitgewerkt
 Toen we eenmaal de opdracht kregen om zelf iets te mogen ontwerpen met de arduino ben ik direct aan de slag gegaan. Eindelijk een project waar ik wat interesse voor had. In de pauze had ik een textdocument aangemaakt waarop ik kern woorden had getyped waarmee ik iets wilde doen. Een automatische eienpeller? Mhh nahh, wordt waarschijnlijk te moeilijk. Ik had niet echt veel inspiratie had ik niet op dat moment. Ik keek rond in de aula voor inspiratie. En toen zag ik het. 2 Klasgenoten hadden bij de kantine thee (of koffie?) gehaald en waren aan het blazen om de temperatuur kouder te krijgen. Dit was een probeel dat ik zelf ook vaak had als ik thee wilde drinken. De temperatuur was dan te hoog en dan moest je wachten tot het kouder werd, maar ik vergat meestal dat ik dan thee had en als ik het eenmaal wilde drinken was het al koud. Ik wilde dus een apparaat maken die de temperatuur meet van het drinken, waar je dan je temperatuur kunt invoeren die jij wilt hebben en dat er dan een ventilator net zo lang blijft draaien totdat de drank de gewenste temperatuur heeft bereikt. Ik keek op internet of er al componenten waren die je kon gebruiken voor arduino. Gelukkig voor mij bestonden er al temperatuur sensoren die je makkenlijk kon aansluiten en een ventilator van 5 volt.
