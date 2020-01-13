@@ -26,6 +26,11 @@ Make sure you have the following:
 - 1x jumper wires pack male to female
 
 Step 2.
+Follow the 'wire layout' (jpg file) and put the components in the right slots. <br>
+Direct link to wire layout: https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_HKUITTT_CoolDrink_wirelayout.JPG
+<br>
+Step 3.
+
 
 # Hoe ik op het idee ben gekomen en hoe ik het veder heb uitgewerkt
 Toen we eenmaal de opdracht kregen om zelf iets te mogen ontwerpen met de arduino ben ik direct aan de slag gegaan. Eindelijk een project waar ik wat interesse voor had. In de pauze had ik een textdocument aangemaakt waarop ik kern woorden had getyped waarmee ik iets wilde doen. Een automatische eienpeller? Mhh nahh, wordt waarschijnlijk te moeilijk. Ik had niet echt veel inspiratie had ik niet op dat moment. Ik keek rond in de aula voor inspiratie. En toen zag ik het. 2 Klasgenoten hadden bij de kantine thee (of koffie?) gehaald en waren aan het blazen om de temperatuur kouder te krijgen. Dit was een probeel dat ik zelf ook vaak had als ik thee wilde drinken. De temperatuur was dan te hoog en dan moest je wachten tot het kouder werd, maar ik vergat meestal dat ik dan thee had en als ik het eenmaal wilde drinken was het al koud. Ik wilde dus een apparaat maken die de temperatuur meet van het drinken, waar je dan je temperatuur kunt invoeren die jij wilt hebben en dat er dan een ventilator net zo lang blijft draaien totdat de drank de gewenste temperatuur heeft bereikt. Ik keek op internet of er al componenten waren die je kon gebruiken voor arduino. Gelukkig voor mij bestonden er al temperatuur sensoren die je makkenlijk kon aansluiten en een ventilator van 5 volt.
