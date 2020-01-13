@@ -28,7 +28,6 @@ Make sure you have the following:
 Step 2.
 - Follow the 'wire layout' (jpg file) and put the components in the right slots. <br>
 Direct link to wire layout: https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_HKUITTT_CoolDrink_wirelayout.JPG
-<br>
 
 Step 3.
 - Download the arduino code. 
@@ -38,6 +37,9 @@ Direct link: https://github.com/MrSliddes/CoolDrink/blob/master/sketch_CoolDrink
 Step 4.
 - If you did everything correctly then it should work. Use the 4 buttons to navigate the menu.
 
+Step 5 (optional)
+- Enchase your arduino components in a fancy box. This can be made from cardbord / wood / plastic.
+For more reference how I did it: https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_ITTTVoortgangFotos.pdf
 
 
 # Hoe ik op het idee ben gekomen en hoe ik het veder heb uitgewerkt
