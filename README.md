@@ -26,10 +26,18 @@ Make sure you have the following:
 - 1x jumper wires pack male to female
 
 Step 2.
-Follow the 'wire layout' (jpg file) and put the components in the right slots. <br>
+- Follow the 'wire layout' (jpg file) and put the components in the right slots. <br>
 Direct link to wire layout: https://github.com/MrSliddes/CoolDrink/blob/master/VersmorenTymon_HKUITTT_CoolDrink_wirelayout.JPG
 <br>
+
 Step 3.
+- Download the arduino code. 
+Direct link: https://github.com/MrSliddes/CoolDrink/blob/master/sketch_CoolDrinkMain/sketch_CoolDrinkMain.ino
+- Connect the usb A to B cable to your device and upload the "sketch_CoolDrinkMain.ino" code to your arduino.
+
+Step 4.
+- If you did everything correctly then it should work. Use the 4 buttons to navigate the menu.
+
 
 
 # Hoe ik op het idee ben gekomen en hoe ik het veder heb uitgewerkt
